@@ -1,0 +1,50 @@
+[
+  {
+    "scrapID": 1,
+    "scrapCategory": "Plastic",
+    "scrapName": "Plastic Bottle",
+    "scrapSizeVol": "50kg"
+  },
+  {
+    "scrapID": 2,
+    "scrapCategory": "Plastic",
+    "scrapName": "Plastic Container",
+    "scrapSizeVol": "40kg"
+  },
+  {
+    "scrapID": 3,
+    "scrapCategory": "Metal",
+    "scrapName": "Bike Frame",
+    "scrapSizeVol": "30kg"
+  },
+  {
+    "scrapID": 4,
+    "scrapCategory": "Plastic",
+    "scrapName": "Plastic Bags",
+    "scrapSizeVol": "10kg"
+  },
+  {
+    "scrapID": 5,
+    "scrapCategory": "Metal",
+    "scrapName": "Bronze Coil",
+    "scrapSizeVol": "80kg"
+  },
+  {
+    "scrapID": 6,
+    "scrapCategory": "Electronic",
+    "scrapName": "Motherboard",
+    "scrapSizeVol": "90kg"
+  },
+  {
+    "scrapID": 7,
+    "scrapCategory": "Plastic",
+    "scrapName": "Plastic Caps",
+    "scrapSizeVol": "24kg"
+  },
+  {
+    "scrapID": 8,
+    "scrapCategory": "Electronic",
+    "scrapName": "Breadboard",
+    "scrapSizeVol": "55kg"
+  }
+]
